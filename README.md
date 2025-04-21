@@ -9,12 +9,6 @@ This repository contains all files and outputs for Task 1: Data Cleaning and Pre
 - `code/`: Contains the Python script used for data cleaning.
 - `README.md`: This file.
 
-## Instructions
-
-1. Place the raw dataset in the `data/` folder.
-2. Run the script in `code/cleaning_script.py` to clean the data.
-3. The cleaned dataset will be saved in the `data/` folder.
-
 ## What was done
 
 - Handled missing values by dropping rows with nulls.
